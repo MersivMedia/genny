@@ -1,7 +1,4 @@
 # genny
-AI image generator for multiple prompts and multiple outputs from multiple models on Replicate.
-
-# AI Image Generator
 
 This application generates images based on text prompts using various AI models through the Replicate API and displays them in a Gradio web interface.
 
