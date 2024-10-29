@@ -6,7 +6,7 @@ This application generates images based on text prompts using various AI models 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-image-generator.git
+   git clone https://github.com/MersivMedia/ai-image-generator.git
    cd ai-image-generator
    ```
 
